@@ -1,3 +1,4 @@
+
 body{
     background-color:black;
 }
@@ -53,5 +54,67 @@ body{
 .form-group{
     background-color: white;
 }
+
+.containerP{
+    box-sizing: border-box;
+    position: relative;
+    width: 1024px;
+    height: 600px;
+    margin-right: 100px;
+    margin-left: 250px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: lightgray;
+}
+.head{
+    box-sizing: content-box;
+    background-color: white;
+    margin-top:40px;
+   
+    
+
+}
+.dk1{
+    box-sizing: content-box;
+    position: relative;
+    width:150px;
+    height:50px;
+    font-weight: bold;
+    font-size: large;
+    background-color: teal;
+    color: white;
+    padding-top: 20px;
+    margin-left: 100px;
+    padding-left:30px;
+}
+.aboutBox{
+    box-sizing: content-box;
+    position: relative;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 50px;
+}
+.pic{
+    padding-right:30px;
+    padding-bottom:10px;
+    float:left;
+    width: 200px;
+    height:200px;
+}
+.about{
+    font-weight: bolder;
+    font-size: larger;
+    color:teal;
+    padding-top: 10px;
+    border-bottom: gray;
+    
+}
+.bio{
+    color: grey;
+}
+
+
 
 
