@@ -95,8 +95,11 @@ body{
     margin-left: 100px;
     margin-right: 100px;
     padding-left: 50px;
+    padding-bottom:20px;
+    margin-bottom:32px;
 }
 .pic{
+    padding-top:20px;
     padding-right:30px;
     padding-bottom:10px;
     float:left;
@@ -114,6 +117,41 @@ body{
 .bio{
     color: grey;
 }
+#nameTab{
+    width:700px;
+    height:40px;
+}
+#emailTab{
+    height:40px;
+    width:700px;
+}
+#name{
+    padding-top:20px;
+}
+#mBox{
+    height: 100px;
+    width:700px;
+    
+}
+.bottomBox{
+    
+    box-sizing: content-box;
+background-color:gray;
+height:60px;
+}
+.pics{
+    width:175px;
+    height:150px;
+    margin:10px;
+}
+.row1{
+    padding-top:20px;
+    margin-left:175px;
+}
+.row2{
+    margin-left:75px;
+}
+
 
 
 
